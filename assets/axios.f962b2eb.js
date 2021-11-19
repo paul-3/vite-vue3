@@ -1,1 +1,0 @@
-import{_ as e}from"./index.d8aeb655.js";import{d as o,c as s,e as a}from"./vendor.bfa1edbd.js";const n=o({setup(){}});function r(t,c,d,p,i,f){return a(),s("div",null," axios ")}var l=e(n,[["render",r]]);export{l as default};
