@@ -10,7 +10,9 @@
 </template>
 
 <script lang="ts" setup>
-// import { useRouter } from 'vue-router';
+import { useRouter } from 'vue-router';
+// eslint-disable-next-line no-unused-vars
+const router = useRouter();
 </script>
 
 <style scoped lang="stylus">
