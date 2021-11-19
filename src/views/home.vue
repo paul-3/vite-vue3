@@ -1,11 +1,11 @@
 <template>
   <div class="home-container page-container">
     <img
-      src="../assets/honey.jpeg"
+      src="../assets/logo.png"
       alt="honey"
       class="home-img"
     >
-    <div>羡煞旁人</div>
+    <div>home</div>
   </div>
 </template>
 <script lang="ts">
@@ -40,4 +40,5 @@ export default defineComponent({
   width 200px
   // height 200px
   animation scaleDraw ease-in-out infinite alternate 5s
+  opacity .1
 </style>
